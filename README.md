@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohammed Abdulrahman Kaura</h1>
-<h3 align="center">passionate Data scientiest/ Full-Stack Developer and Tech Enthusiast with a degree in Computer Science. I love building efficient, user-friendly web applications and exploring the endless possibilities of AI, Data Science, and Machine Learning.</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23a8b633-a50f-4cc4-9f88-1e0acc273edb" 
+       alt="Programmer using computer" 
+       style="border-radius: 100%; width: 300px; height: 300px; object-fit: cover;">
+</p>passionate Data scientiest/ Full-Stack Developer and Tech Enthusiast with a degree in Computer Science. I love building efficient, user-friendly web applications and exploring the endless possibilities of AI, Data Science, and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaura007&label=Profile%20views&color=0e75b6&style=flat" alt="kaura007" /> </p>
 
