@@ -57,7 +57,7 @@
 
 | 💻 | 🎯 | 📬 |
 |:--:|:--:|:--:|
-| All my projects: [Portfolio](https://kauraporfolio.lovable.app/) | Ask me about: **React, PostgreSQL, MERN, Machine Learning, AI** | Reach me: **kaurajamb2018@gmail.com** |
+| [Portfolio Website](https://lovable.dev/projects/3498f60b-e336-4857-9409-a6f837d685c7) | Ask me about: **React, PostgreSQL, MERN, Machine Learning, AI** | Reach me: **kaurajamb2018@gmail.com** |
 
 </div>
 
@@ -78,8 +78,8 @@
   <a href="mailto:kaurajamb2018@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://kauraporfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://lovable.dev/projects/3498f60b-e336-4857-9409-a6f837d685c7" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
